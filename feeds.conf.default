@@ -1,0 +1,2 @@
+src-git opentopd https://github.com/kenzok8/openwrt-packages.git
+src-git opentopd https://github.com/kenzok8/small.git
